@@ -1,4 +1,4 @@
-# Soy Diego_Sotelo 👋
+# Soy Diego_Sotelo 
 ### Estudiante de Ingeniería de Sistemas & Junior Data Analyst
 
 Soy un apasionado por transformar datos en decisiones estratégicas. Mi enfoque combina la ingeniería de sistemas con el análisis de datos para resolver problemas de negocio reales.
